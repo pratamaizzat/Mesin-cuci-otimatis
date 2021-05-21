@@ -1,9 +1,5 @@
-//
-//Berapa kecepatan mesin jika banyak cucian 50 dan tingkat kekotoran 58
-//
-
-const pakaian = 50;
-const kekotoran = 58;
+const pakaian = 80;
+const kekotoran = 60;
 
 let vPakaian = {
   value: pakaian,

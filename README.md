@@ -1,5 +1,9 @@
 # Studi kasus: Mesin Cuci Otomatis Menggunakan Fuzzy Tsukamoto
 
+*Link Pembelajaran* http://www.youtube.com/watch?v=aAjSFo0SXhg - automatic!
+[Youtube](http://www.youtube.com/watch?v=aAjSFo0SXhg)
+
+
 1. **Kecepatan Mesin**
 Kecepatan mesin minimal adalah 500rpm **lambat** dan kecepatan mesin maksimal adalah 1200rpm **cepat**
 
@@ -17,12 +21,12 @@ Dinyatakan dalam range *0-100* :
 ## Rule Fuzzy
 *Rule dibawah ini berasal dari pakar*
 
-1. {R1} Jika pakaian **sedikit** dan kekotoran **rendah**, maka kecepatan mesin **lambat**.
-2. {R2} Jika pakaian **sedikit** dan kekotoran **sedang**, maka kecepatan mesin **lambat**.
-3. {R3} Jika pakaian **sedikit** dan kekotoran **tinggi**, maka kecepatan mesin **cepat**.
-4. {R4} Jika pakaian **banyak** dan kekotoran **rendah**, maka kecepatan mesin **lambat**.
-5. {R5} Jika pakaian **banyak** dan kekotoran **sedang**, maka kecepatan mesin **cepat**.
-6. {R6} Jika pakaian **banyak** dan kekotoran **tinggi**, maka kecepatan mesin **cepat**.
+1. {R1} Jika pakaian **sedikit** *dan* kekotoran **rendah**, maka kecepatan mesin **lambat**.
+2. {R2} Jika pakaian **sedikit** *dan* kekotoran **sedang**, maka kecepatan mesin **lambat**.
+3. {R3} Jika pakaian **sedikit** *dan* kekotoran **tinggi**, maka kecepatan mesin **cepat**.
+4. {R4} Jika pakaian **banyak** *dan* kekotoran **rendah**, maka kecepatan mesin **lambat**.
+5. {R5} Jika pakaian **banyak** *dan* kekotoran **sedang**, maka kecepatan mesin **cepat**.
+6. {R6} Jika pakaian **banyak** *dan* kekotoran **tinggi**, maka kecepatan mesin **cepat**.
 
 
 ## Fungsi Keanggotaan
