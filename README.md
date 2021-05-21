@@ -1,6 +1,7 @@
 # Studi kasus: Mesin Cuci Otomatis Menggunakan Fuzzy Tsukamoto
 
-*Link Pembelajaran*  [Youtube](http://www.youtube.com/watch?v=aAjSFo0SXhg)
+*Link Pembelajaran Fuzzy Metode Tsukamoto* Fuzzy TSUKAMOTO | Sistem Inferensi Fuzzy | Contoh Studi Kasus dan Langkah Penyelesaiannya By Dr. Achmad Solichin
+[Youtube](http://www.youtube.com/watch?v=aAjSFo0SXhg)
 
 
 1. **Kecepatan Mesin**
