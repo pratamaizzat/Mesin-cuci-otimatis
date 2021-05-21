@@ -3,7 +3,11 @@
 *Link Pembelajaran Fuzzy Metode Tsukamoto* Fuzzy TSUKAMOTO | Sistem Inferensi Fuzzy | Contoh Studi Kasus dan Langkah Penyelesaiannya By Dr. Achmad Solichin
 [Youtube](http://www.youtube.com/watch?v=aAjSFo0SXhg)
 
+### Requirement
+* NodeJS [Download](https://nodejs.org/en/)
+* Basic on Javascript 
 
+## Latar belakang
 1. **Kecepatan Mesin**
 Kecepatan mesin minimal adalah 500rpm **lambat** dan kecepatan mesin maksimal adalah 1200rpm **cepat**
 
