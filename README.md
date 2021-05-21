@@ -1,7 +1,6 @@
 # Studi kasus: Mesin Cuci Otomatis Menggunakan Fuzzy Tsukamoto
 
-*Link Pembelajaran* http://www.youtube.com/watch?v=aAjSFo0SXhg - automatic!
-[Youtube](http://www.youtube.com/watch?v=aAjSFo0SXhg)
+*Link Pembelajaran*  [Youtube](http://www.youtube.com/watch?v=aAjSFo0SXhg)
 
 
 1. **Kecepatan Mesin**
